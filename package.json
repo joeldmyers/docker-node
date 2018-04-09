@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/joeldmyers/docker-node/issues"
   },
-  "homepage": "https://github.com/joeldmyers/docker-node#readme"
+  "homepage": "https://github.com/joeldmyers/docker-node#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
